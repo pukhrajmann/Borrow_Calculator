@@ -1,1 +1,2 @@
 # Borrow_Calculator
+M1 Finance and other brokerages have a feautre that let's you borrow agaisnt the value of your investment portfolio. M1 finance currently allow you to borrow 35% of your portfolio in increments of $100. Other borkers allow varying amounts The follow calculator shows the maxium amount you could borrow given the total amount in your invetment account, the current loan amount you are borrowing,, and the percent of your portfolio you are allowed to borrow. 
